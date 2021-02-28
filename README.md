@@ -6,6 +6,12 @@
 * software engineer
 * geo geek
 
+```java
+World.stream()
+  .filter(GeoGeek::isGeoAwesome)
+  .collect(Collectors::toGitHub);
+```
+
 feel welcome to visit "Geo Geek." on facebook - https://www.facebook.com/geogeeks
 
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
