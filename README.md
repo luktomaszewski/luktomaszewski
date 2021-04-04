@@ -1,6 +1,6 @@
 ### hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lomasz.lomasz
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lomasz.lomasz)
 
 ## :thinking: about me
 * software engineer
