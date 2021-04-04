@@ -13,8 +13,6 @@ World.stream()
   .collect(Collectors::toGitHub);
 ```
 
-[![Łukasz Tomaszewski's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/lomasz)
-
 feel welcome to visit "Geo Geek." on facebook - https://www.facebook.com/geogeeks
 
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
