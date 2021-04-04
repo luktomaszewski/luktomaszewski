@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lomasz.lomasz)
 
+
 ## :thinking: about me
 * software engineer
 * geo geek
@@ -11,6 +12,8 @@ World.stream()
   .filter(GeoGeek::isGeoAwesome)
   .collect(Collectors::toGitHub);
 ```
+
+[![Łukasz Tomaszewski's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/lomasz)
 
 feel welcome to visit "Geo Geek." on facebook - https://www.facebook.com/geogeeks
 
