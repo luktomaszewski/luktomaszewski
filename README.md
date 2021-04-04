@@ -2,6 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lomasz.lomasz)
 
+[![Łukasz Tomaszewski's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/lomasz)
+    
 
 ## :thinking: about me
 * software engineer
