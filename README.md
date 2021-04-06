@@ -12,7 +12,8 @@ World.stream()
   .collect(Collectors::toGitHub);
 ```
 
-feel welcome to visit "Geo Geek." on facebook - https://www.facebook.com/geogeeks
+feel welcome to visit [<kbd>Geo Geek.</kbd>](https://www.facebook.com/geogeeks
+) on Facebook.
 
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
 
