@@ -13,9 +13,9 @@ World.stream()
   .collect(Collectors::toGitHub);
 ```
 
-[![dev.to :: lomasz](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lomasz)
-[![linkedin :: lomasz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasztomaszewski/)
-[![facebook :: geo geek.](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/geogeeks)
+[![dev.to :: lomasz](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&style=flat)](https://dev.to/lomasz)
+[![linkedin :: lomasz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lukasztomaszewski/)
+[![facebook :: geo geek.](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/geogeeks)
 
 
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
