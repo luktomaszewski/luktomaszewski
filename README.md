@@ -5,6 +5,7 @@
 ## :thinking: about me
 * software engineer
 * geo geek
+* running freak (:trophy: 5k: 17:10 | 10k: 36:08 | 1/2m: 1:23:37)
 
 ```java
 World.stream()
