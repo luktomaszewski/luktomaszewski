@@ -16,6 +16,8 @@ World.stream()
 [![dev.to :: lomasz](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/lomasz)
 [![linkedin :: lukasztomaszewski](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasztomaszewski/)
 [![facebook :: geo geek.](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/geogeeks)
+[![goodreads :: lomasz](https://img.shields.io/badge/goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/lomasz)
+
 
 
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
