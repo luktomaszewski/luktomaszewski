@@ -19,14 +19,15 @@ World.stream()
 [![goodreads :: lomasz](https://img.shields.io/badge/goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/lomasz)
 
 
-
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
 
 ## :toolbox: skills
 * languages: java, python
 * frameworks: spring-boot, hibernate, liquibase, swagger, junit, mockito
 * db: postgresql+postgis, oracle+spatial, mssql
-* technologies: gradle, docker, elk, activemq, rabbitmq
+* technologies: gradle, elk, activemq, rabbitmq
+* vcs: git
+* devops: docker, k8s, pipelines, bash/zsh 
 * cloud: azure
 * gis: arcgis, fme, qgis, geomedia, geoserver, arcpy, ogr2ogr, ogc, wms, wfs, sld, geojson, lidar/las
 
