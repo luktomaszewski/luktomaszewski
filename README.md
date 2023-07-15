@@ -35,7 +35,3 @@ actively looking for additional development opportunities as supervisory board m
 * :man_technologist: programming & technologies
 * :headphones: music
 * :airplane: aviation
-
-## :chart_with_upwards_trend: stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lomasz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomasz&layout=compact&theme=dark)
