@@ -25,7 +25,7 @@ actively looking for additional development opportunities as supervisory board m
 * db: postgresql+postgis, oracle+spatial, mssql
 * technologies: gradle, elk, activemq, rabbitmq
 * vcs: git
-* devops: docker, k8s, pipelines, bash/zsh 
+* devops: docker, k8s, helm, terraform, bicep, gitlab, pipelines, bash/zsh
 * cloud: azure, aws
 * gis: arcgis, fme, qgis, geomedia, geoserver, arcpy, ogr2ogr, ogc, wms, wfs, sld, geojson, lidar/las
 
