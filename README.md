@@ -11,8 +11,6 @@ World.stream()
   .collect { it.toGitHub() }
 ```
 
-[![linkedin :: lukasztomaszewski](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasztomaszewski/)
-
 actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
 
 ## :toolbox: skills
