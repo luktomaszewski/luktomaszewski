@@ -26,6 +26,7 @@ actively looking for additional development opportunities as supervisory board m
 ## roadmaps
 * [backend](https://roadmap.sh/backend?s=657629265145316d25e4ac0a)
   * [java](https://roadmap.sh/java?s=657629265145316d25e4ac0a)
+  * [spring boot](https://roadmap.sh/spring-boot?s=657629265145316d25e4ac0a)
 * [devops](https://roadmap.sh/devops?s=657629265145316d25e4ac0a)
   * [docker](https://roadmap.sh/docker?s=657629265145316d25e4ac0a)
   * [kubernetes](https://roadmap.sh/kubernetes?s=657629265145316d25e4ac0a)
