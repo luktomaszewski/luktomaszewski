@@ -23,9 +23,18 @@ actively looking for additional development opportunities as supervisory board m
 * cloud: azure, aws
 * gis: arcgis, fme, qgis, geomedia, geoserver, arcpy, ogr2ogr, ogc, wms, wfs, sld, geojson, lidar/las
 
+## roadmaps
+* [[backend](https://roadmap.sh/backend?s=657629265145316d25e4ac0a)
+* [java](https://roadmap.sh/java?s=657629265145316d25e4ac0a)
+* [devops](https://roadmap.sh/devops?s=657629265145316d25e4ac0a)
+* [docker](https://roadmap.sh/docker?s=657629265145316d25e4ac0a)
+* [kubernetes](https://roadmap.sh/kubernetes?s=657629265145316d25e4ac0a)
+* [aws](https://roadmap.sh/aws?s=657629265145316d25e4ac0a)
+
 ## :heart: hobbies
 * :runner: running
 * :earth_africa: geoscience & gis
 * :man_technologist: programming & technologies
 * :headphones: music
 * :airplane: aviation
+
