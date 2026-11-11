@@ -1,36 +1,49 @@
-### hi there 👋
-
-## :thinking: about me
-* software engineer (java, kotlin, devops)
-* geo geek
-* running freak (:trophy: 5k: <kbd>17:10</kbd> | 10k: <kbd>36:08</kbd> | 1/2m: <kbd>1:23:37</kbd>)
-
 ```java
-World.stream()
-  .filter { GeoGeek.isGeoAwesome(it) }
-  .collect { it.toGitHub() }
+package com.github.luktomaszewski;
+
+/**
+ * Software engineer · geo geek · running freak.
+ */
+public final class LukTomaszewski implements SoftwareEngineer, GeoGeek, Runner {
+
+    @Override
+    public Profile profile() {
+        return Profile.builder()
+                .role("Software Engineer")
+                .focus("Java", "Kotlin", "DevOps", "GIS")
+                .openTo("supervisory board roles in successful companies with good financial results")
+                .build();
+    }
+
+    @Override
+    public Skills skills() {
+        return Skills.builder()
+                .languages("Java", "Kotlin", "Python")
+                .frameworks("Spring Boot", "Hibernate", "Liquibase", "Swagger", "JUnit", "Mockito")
+                .databases("PostgreSQL + PostGIS", "Oracle + Spatial", "MSSQL")
+                .technologies("Gradle", "ELK", "ActiveMQ", "RabbitMQ", "Git")
+                .devOps("Docker", "Kubernetes", "Helm", "Terraform", "Bicep", "GitLab CI/CD", "Bash/Zsh")
+                .cloud("Azure", "AWS")
+                .gis("ArcGIS", "FME", "QGIS", "GeoMedia", "GeoServer", "ArcPy", "ogr2ogr",
+                     "OGC", "WMS", "WFS", "SLD", "GeoJSON", "LiDAR/LAS")
+                .build();
+    }
+
+    @Override
+    public List<String> hobbies() {
+        return List.of("running", "geoscience & GIS", "programming & technologies", "music", "aviation");
+    }
+
+    @Override
+    public Stream<Repository> contribute(World world) {
+        return world.stream()
+                .filter(GeoGeek::isGeoAwesome)
+                .map(Repository::toGitHub);
+    }
+}
 ```
 
-actively looking for additional development opportunities as supervisory board member of successful company with good financial results 
-
-## :toolbox: skills
-* languages: java, kotlin, python
-* frameworks: spring-boot, hibernate, liquibase, swagger, junit, mockito
-* db: postgresql+postgis, oracle+spatial, mssql
-* technologies: gradle, elk, activemq, rabbitmq
-* vcs: git
-* devops: docker, k8s, helm, terraform, bicep, gitlab, ci/cd, bash/zsh
-* cloud: azure, aws
-* gis: arcgis, fme, qgis, geomedia, geoserver, arcpy, ogr2ogr, ogc, wms, wfs, sld, geojson, lidar/las
-
-## :compass: roadmaps
-[![roadmap.sh](https://roadmap.sh/card/tall/657629265145316d25e4ac0a?variant=dark&roadmaps=backend%2Cspring-boot%2Cjava)](https://roadmap.sh)
-[![roadmap.sh](https://roadmap.sh/card/tall/657629265145316d25e4ac0a?variant=dark&roadmaps=devops%2Cdocker%2Ckubernetes%2Caws)](https://roadmap.sh)
-
-## :heart: hobbies
-* :runner: running
-* :earth_africa: geoscience & gis
-* :man_technologist: programming & technologies
-* :headphones: music
-* :airplane: aviation
-
+<p align="center">
+  <a href="https://roadmap.sh"><img alt="roadmap.sh: backend, spring-boot, java" src="https://roadmap.sh/card/tall/657629265145316d25e4ac0a?variant=dark&roadmaps=backend%2Cspring-boot%2Cjava"></a>
+  <a href="https://roadmap.sh"><img alt="roadmap.sh: devops, docker, kubernetes, aws" src="https://roadmap.sh/card/tall/657629265145316d25e4ac0a?variant=dark&roadmaps=devops%2Cdocker%2Ckubernetes%2Caws"></a>
+</p>
